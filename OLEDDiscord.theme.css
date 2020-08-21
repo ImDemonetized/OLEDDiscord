@@ -13,11 +13,12 @@
 .theme-dark,
 .theme-light,
 :root {
+   --background-color: #000000 !important;
    --background-primary: #000000 !important;
    --background-secondary: #000000 !important;
-   --background-secondary-alt: #0c0c0c !important;
+   --background-secondary-alt: #000000 !important;
    --background-tertiary: #000000 !important;
-   --background-accent: #000000 !important;
+   --background-accent: #0e0e0e !important;
    --background-floating: black !important;
    --background-modifier-hover: rgba(255, 255, 255, 0.01) !important;
    --background-modifier-active: rgba(255, 255, 255, 0.03) !important;
@@ -44,4 +45,6 @@
    --toast-contents: var(--background-secondary) !important;
    --toast-box-shadow: rgba(0, 0, 0, 0.2) !important;
    --toast-border: var(--background-tertiary) !important;
+   --scrollbar-auto-track: #000000 !important;
+   --scrollbar-auto-thumb: #191919 !important;
 }
