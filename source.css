@@ -1572,3 +1572,9 @@ html:not(.platform-win).theme-light .item-PXvHYJ:nth-of-type(19) {
 .message-2qnXI6.mentioned-xhSam7 .scrollableContainer-2NUZem {
    background-color: var(--background-modifier-active) !important;
 }
+.panels-j1Uci_ {
+   background-color: rgba(0, 0, 0, 0.1) !important;
+}
+.theme-dark .autocomplete-1vrmpx {
+    background-color: #000000;
+}
