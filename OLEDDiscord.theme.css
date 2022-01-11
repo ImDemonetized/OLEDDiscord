@@ -16,7 +16,7 @@
 :root {
    --background-primary: #000000 !important;
    --background-secondary: #000000 !important;
-   --background-secondary-alt: #212121 !important;
+   --background-secondary-alt: #000000 !important;
    --background-tertiary: #000000 !important;
    --background-accent: #0e0e0e !important;
    --background-floating: black !important;
