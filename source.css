@@ -18,7 +18,7 @@
 }
 
 .container-2cd8Mz {
-    background-color: #000000; !important;
+   background-color: var(--background-primary) !important;
 }
 .contentRegionScroller-26nc1e::-webkit-scrollbar-track,
 .auto-Ge5KZx::-webkit-scrollbar-track {
