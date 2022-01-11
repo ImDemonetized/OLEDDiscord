@@ -21,7 +21,9 @@
 .auto-Ge5KZx::-webkit-scrollbar-track {
    background-color: var(--background-secondary) !important;
 }
-
+.panels-3wFtMD {
+    background-color:#000000 !important;
+}
 .phoneFieldScroller-2IJUdK::-webkit-scrollbar-track {
    background-color: var(--background-primary) !important;
 }
